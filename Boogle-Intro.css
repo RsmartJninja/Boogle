@@ -1,0 +1,245 @@
+*{
+	font-family: Calibri;
+}
+body {
+	margin:0 auto;
+}
+#CLogo {
+	text-align: center;
+	font-size:37px;
+	font-weight:bold;
+	position: relative;
+	     top: 19px;
+}
+#CLogo #red{
+	color:red;
+}
+#CLogo #blue{
+	color:blue;
+}
+#CLogo #yellow{
+	color:yellow;
+}
+#CLogo #grey{
+	color:grey;
+}
+#CLogo #darkred{
+	color:darkred;
+}
+#CLogo #green{
+	color:green;
+}
+#Einmal {
+	text-align: center;
+	font-size: 43px;
+	color:dimgrey;
+	position: relative;
+	        top:33px;
+}
+#Anmelden {
+	text-align:center;
+	font-size:21px;
+	font-weight:bolder;
+	color:dimgrey;
+	font-weight:100;
+	position:relative;
+	     top:50px;
+}
+#Eingabefeld {
+	position:relative;
+	     top:60px;
+	margin:auto;
+	background-color:aliceblue;
+	height:330px;
+	width:370px;
+	box-shadow: 2px 2px 1px #888;
+}	
+#Email-Eingabe{
+	height:40px;
+	width:300px;
+	position:relative;
+	      top:80px;
+	      left:30px;
+	box-shadow: 1px 1px 1px #888;
+}
+#Email-Text{
+	color:darkgrey;
+	position:relative;
+	       top:-75px;
+	       left:43%;
+}
+#Email-Text:hover{
+	color:white;
+}
+#Figur1{
+	height:100px;
+	width:105px;
+	border-radius:50%;
+	position:relative;
+	       top:40px;
+	       left:35%;
+	background-color:lightgrey;
+}
+#Figur2{
+	height:30px;
+	width:30px;
+	border-radius:50%;
+	background-color:dimgray;
+	position:relative;
+	    top:-183px;
+	    left:50%;
+}
+#Figur3{
+	height:15px;
+	width:15px;
+	border-radius:50%;
+	background-color:white;
+	position:relative;
+	    top:-199px;
+	     left:50%;
+}
+#Weiter1{
+	<!--positionsprobleme-->
+	background-color:white;
+	height:40px;
+	width:304px;
+	position:relative;
+	        top:-90px;
+            left:50%;
+	box-shadow: 1px 1px 1px <!--#888-->;
+}
+#Weiter2{
+	position:relative;
+	top:-120px;
+	left:48%;
+}
+#Weiter2 a{
+	text-decoration: none;
+	color:darkslategrey;
+	font-size:21px;
+}
+#Kontof {
+	position:relative;
+	  top:-95px;
+	  left:50%;
+}
+#Kontof a{
+	text-decoration:none;
+	font-size:15px;
+	color:skyblue;
+}
+#KontoE {
+	text-align:center;
+	position:relative;
+	     top:-70px;
+}
+#KontoE a{
+	text-decoration:none;
+	color:deepskyblue;
+	font-size:15px;
+}
+#Werbung{
+	text-align:center;
+	font-size:17px;
+	color:dimgrey;
+	position:relative;
+         top:-60px;
+}
+#BLine div {
+	height:15px;
+	width:15px;
+	border:3px solid;
+	font-size:12px;
+	text-align:center;
+	<!--positionsprobleme-->
+}
+#B1{
+	color: blue;
+	margin:auto;
+}
+#B2{
+	color:white;
+}
+#B3{
+    color:white;	   
+}
+#B4{
+	color:white;   
+}
+#B5{
+	color:white;
+}
+#B6{
+	color:white;
+}
+#B7{
+	color:white;
+}
+#B8{
+	color:white;
+}
+#Links{
+    height:25px;
+	width:1400px;
+	font-size:14px;
+	border:2px solid aliceblue;
+	position:fixed;
+	      bottom:0px;
+}
+#Über{
+	position:fixed;
+		  bottom:10px;
+	      left:50px;
+}
+#Über a{
+	text-decoration:none;
+	color:dimgray;
+}
+#Datens{
+	position:fixed;
+		  bottom:10px;
+	      left:160px;
+}
+#Datens a{
+	text-decoration:none;
+	color:dimgray;
+}
+#Nutzungs{
+	position:fixed;
+		  bottom:10px;
+	      left:250px;
+}
+#Nutzungs a{
+	text-decoration:none;
+	color:dimgray;
+}
+#Hilfe{
+	position:fixed;
+		  bottom:10px;
+	      left:390px;
+}
+#Hilfe a{
+	text-decoration:none;
+	color:dimgray;
+}
+#FR{
+	position:fixed;
+	   bottom:8px;
+	   left:1130px;
+    width:19px;
+	height:19px;
+	border:1px solid black;
+	background-color:grey;
+	text-align:center;
+	font-size:12px;
+	}
+#SprachB{
+	position:fixed;
+	   bottom:6px;
+	   left:1155px;
+    width:149px;
+	height:21px;
+	border:1px solid black;
+	text-align:left;
+	font-size:12px;
+}
